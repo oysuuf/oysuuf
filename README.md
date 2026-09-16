@@ -9,10 +9,6 @@ I build the systems a business actually runs on: loyalty programs, customer
 models and segments, lifecycle campaigns, pricing, inventory and demand
 planning, point of sale, and the reporting that says what happened.
 
-**[tandoco-systems](https://github.com/oysuuf/tandoco-systems)** — a reading
-copy of that software, organised by the problem each part solves. Start with
-`loyalty/PROGRAM.md` and `pricing/volumeRamp.js`.
-
 Stack I reach for: Firebase (Firestore, Cloud Functions), Stripe (Payments,
 Connect, Terminal), Twilio, SwiftUI, Node, SQL, Excel and Power BI.
 
