@@ -1,17 +1,34 @@
 ### Omar Yusuf
 
-Eight years at Best Buy across loyalty and membership analytics, corporate
-category management and multi-unit retail leadership — and co-founder of
-[Tandoco](https://tandoco.com), a high-protein food business in Minneapolis
-that I run and wrote the software for.
+Founder of [ohelloo](https://ohelloo.com), an AI front desk for owner-led local
+businesses: a sales assistant, an AI voice receptionist, online booking and a
+lead manager. Co-founder of [Tandoco](https://tandoco.com), a high-protein food
+business in Minneapolis that I run and wrote the software for. Before that,
+eight years at Best Buy across loyalty and membership analytics, corporate
+category management and multi-unit retail leadership.
 
-I build the systems a business actually runs on: loyalty programs, customer
-models and segments, lifecycle campaigns, pricing, inventory and demand
-planning, point of sale, and the reporting that says what happened.
+I build with Claude Code in the terminal as my main working environment, and I
+build the systems a business actually runs on:
 
-Stack I reach for: Firebase (Firestore, Cloud Functions), Stripe (Payments,
-Connect, Terminal), Twilio, SwiftUI, Node, SQL, Excel and Power BI.
+- **AI with a human in the loop.** Help desk tickets that plan, triage and
+  resolve: Claude sorts each message by urgency and owner, writes the next steps
+  and a draft reply, and a Claude Code agent investigates and drafts the fix.
+  Nothing reaches a customer without my approval.
+- **Automation.** Scheduled jobs that audit every lead's website overnight, pull
+  new Kansas City businesses from public license and permit records, and check
+  every outside service every six hours.
+- **Reliability.** Sentry, PostHog, uptime checks, and Playwright tests on every
+  page before each release.
+- **Commerce.** Loyalty programs, customer models and segments, lifecycle
+  campaigns, pricing, inventory and demand planning, point of sale, and the
+  reporting that says what happened.
 
-Looking for loyalty, category, e-commerce and business-analysis roles.
+Stack I reach for: Claude Code, Firebase (Firestore, Cloud Functions), Stripe
+(Payments, Connect, Terminal), Twilio, Retell, SwiftUI, Node, SQL, Excel and
+Power BI.
+
+Based in Kansas City. Looking for AI builder, product operations, loyalty and
+business-analysis roles.
+[ohelloo](https://ohelloo.com) ·
 [LinkedIn](https://www.linkedin.com/in/omar-yusuf-8b7664195) ·
 [Portfolio](https://omaryusuf-portfolio.web.app)
