@@ -32,3 +32,9 @@ business-analysis roles.
 [ohelloo](https://ohelloo.com) ·
 [LinkedIn](https://www.linkedin.com/in/omar-yusuf-8b7664195) ·
 [Portfolio](https://omaryusuf-portfolio.web.app)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oysuuf/oysuuf/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oysuuf/oysuuf/output/github-snake.svg" />
+  <img alt="A purple snake eating the green squares of my GitHub contribution graph" src="https://raw.githubusercontent.com/oysuuf/oysuuf/output/github-snake.svg" />
+</picture>
